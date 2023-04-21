@@ -5,7 +5,7 @@
 	"main_font": "",
 	"headline_font": "",
 	"code_font": "",
-	"css": "body {\n  --color-error: #ff5555;\n  --color-close: #ff5555;\n\n  --color-warning: #f1fa8c;\n\n  --color-axis-x: #ff5555;\n  --color-axis-y: #50fa7b;\n  --color-axis-z: #8be9fd;\n}",
+	"css": "body {\n  --color-error: #ff5555;\n  --color-close: #ff5555;\n\n  --color-warning: #f1fa8c;\n  \n  --color-confirm: #50fa7b;\n\n  --color-axis-x: #ff5555;\n  --color-axis-y: #50fa7b;\n  --color-axis-z: #8be9fd;\n  \n  --color-stream: #ff79c6;\n}",
 	"colors": {
 		"ui": "#282a36",
 		"back": "#44475a",
