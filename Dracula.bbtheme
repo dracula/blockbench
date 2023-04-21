@@ -1,0 +1,28 @@
+{
+	"name": "Custom Theme",
+	"author": "",
+	"borders": false,
+	"main_font": "",
+	"headline_font": "",
+	"code_font": "",
+	"css": "body {\n  --color-error: #ff5555;\n  --color-close: #ff5555;\n\n  --color-warning: #f1fa8c;\n\n  --color-axis-x: #ff5555;\n  --color-axis-y: #50fa7b;\n  --color-axis-z: #8be9fd;\n}",
+	"colors": {
+		"ui": "#282a36",
+		"back": "#44475a",
+		"dark": "#44475a",
+		"border": "#44475a",
+		"selected": "#474d5d",
+		"button": "#3a3f4b",
+		"bright_ui": "#44475a",
+		"accent": "#bd93f9",
+		"frame": "#181a1f",
+		"text": "#f8f8f2",
+		"light": "#f4f3ff",
+		"accent_text": "#000006",
+		"bright_ui_text": "#f8f8f2",
+		"subtle_text": "#848891",
+		"grid": "#6272a4",
+		"wireframe": "#6272a4",
+		"checkerboard": "#282a36"
+	}
+}
